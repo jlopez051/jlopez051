@@ -1,8 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Juan+L%C3%B3pez+👋;Estudiante+de+Desarrollo+Multiplataforma;Apasionado+por+bases+de+datos+y+web" alt="Typing SVG" />
+
+  <h1>
+    Juan López Cantavella
+  </h1>
+  
+  <h3>
+    Multiplatform Application Development Student 
+  </h3>
+
+  <img src="https://avatars.githubusercontent.com/u/232527478?v=4" alt="Profile picture" width="180" style="border-radius:50%;" />
+
 </div>
 
----
+
+</div>
 
 <div align="center">
   
@@ -18,7 +29,7 @@
 - 🎓 **Multiplatform App Developer** student in Castellón de la Plana.  
 - 🗄️ I specialize **Java**, **SQL** and **web** and **databases** design.  
 - 🚀 Building my portfolio and knowledge step by step.
-- Going to **Chicago** soon!!! 🇺🇸​
+- Going to **Chicago** soon!!!​
 
 ---
 
@@ -49,27 +60,7 @@
 
 - Small Java and database projects for class.  
 - Practicing advanced SQL (joins, constraints, transactions).  
-- Improving my front-end skills with HTML & CSS layouts.  
-
----
-
-## 📈 GitHub stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=jlopez051&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlopez051&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Langs" />
-
-</div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlopez051/jlopez051/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jlopez051/jlopez051/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jlopez051/jlopez051/output/github-contribution-grid-snake.svg">
-</picture>
+- Improving my front-end skills with HTML & CSS layouts.
 
 ---
 
