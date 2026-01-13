@@ -29,7 +29,7 @@
 - 🎓 **Multiplatform App Developer** student in Castellón de la Plana.  
 - 🗄️ I specialize **Java**, **SQL** and **web** and **databases** design.  
 - 🚀 Building my portfolio and knowledge step by step.
-- Going to **Chicago** soon!!!​
+- 🗺️ Going to **Chicago** soon!!!​
 
 ---
 
