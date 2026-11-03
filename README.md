@@ -2,11 +2,11 @@
 
 # Juan López Cantavella
 
-**Full-stack & multiplatform developer** · TypeScript · React / Next.js · Node.js · Java · SQL
+**Full-stack & multiplatform developer** · **Java** · TypeScript · React / Next.js · Node.js · SQL
 
 Castellón, Spain · Spanish (native) · Valencian (C1) · English (C1)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20López-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-l%C3%B3pez-76a980316/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20López%20Cantavella-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-lopez-cantavella/)
 [![Email](https://img.shields.io/badge/Email-juan.lopezcantavella%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:juan.lopezcantavella@gmail.com)
 
 </div>
@@ -15,7 +15,7 @@ Castellón, Spain · Spanish (native) · Valencian (C1) · English (C1)
 
 ## About
 
-I build web and mobile products end to end: data model, API, interface and deployment. I care about typed code, tested business logic and interfaces that non-technical users understand on first use.
+I build web and mobile products end to end: data model, API, interface and deployment. My strongest language is **Java** (object-oriented programming, SQL databases, Android); on the web I work with TypeScript, React, Next.js and Node.js. I care about typed code, tested business logic and interfaces that non-technical users understand on first use.
 
 - Studying **Multiplatform Application Development (DAM)** at Davante MEDAC Castellón, graduating in 2027.
 - Two years of **Mechanical Engineering** before switching to software: that is where I learned to work with models, constraints and tolerances before writing a single line.
@@ -59,9 +59,9 @@ Two connected apps: a caregiver dashboard (location radar, medication schedule, 
 ## Tech stack
 
 **Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
